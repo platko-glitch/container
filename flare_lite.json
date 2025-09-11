@@ -1,28 +1,46 @@
 [
   {
     "id": 1,
-    "name": "flare"
+    "name": "site"
   },
   {
     "id": 2,
-    "name": "analytics",
+    "name": "tent",
     "parent": 1
   },
   {
     "id": 3,
-    "name": "cluster",
+    "name": "bay1",
     "parent": 2
   },
   {
     "id": 4,
-    "name": "AgglomerativeCluster",
-    "parent": 3,
+    "name": "bay2",
+    "parent": 2,
     "size": 3938
   },
   {
     "id": 5,
-    "name": "CommunityStructure",
+    "name": "bay3",
+    "parent": 2,
+    "size": 3812
+  },
+    {
+    "id": 5,
+    "name": "breadboad1",
     "parent": 3,
     "size": 3812
-  }
+  },
+  {
+    "id": 6,
+    "name": "breadboard2",
+    "parent": 3,
+    "size": 3812
+  },
+    {
+    "id": 7,
+    "name": "breadboard3",
+    "parent": 4,
+    "size": 3812
+  },
 ]
