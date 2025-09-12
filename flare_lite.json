@@ -6,7 +6,8 @@
   {
     "id": 2,
     "name": "tent",
-    "parent": 1
+    "parent": 1,
+    "size": 1200
   },
   {
     "id": 3,
